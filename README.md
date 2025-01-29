@@ -1,7 +1,6 @@
-# Solo Bomb Party
+Salitang Bomba
 
-A singleplayer / solo version of jklm.fun's bomb party.  
-Game link: https://sertdfyguhi.github.io/solo-bomb-party
+Game link: https://mojo1117.github.io/fililililingo3/
 
 # Keyboard Shortcuts
 
